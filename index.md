@@ -1,40 +1,16 @@
 
-Hello, this is Brook's new page! 
+# Welcome to my page
 
-## Welcome to GitHub Pages
+Hello, this is Brook's **new** page! 
 
-You can use the [editor on GitHub](https://github.com/brookr/hello-amman/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We are having *fun* learning about Markdown.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My favorite features of Markdown:
 
-### Markdown
+1. Headings
+1. Lists 
+1. Bold text
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Link: [My Portfolio](https://github.com/brookr)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brookr/hello-amman/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![](https://pix10.agoda.net/hotelImages/60493/0/ee2f64d76c18066d4745b8ec58bf38d9.jpg?s=1024x768)
